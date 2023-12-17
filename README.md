@@ -6,3 +6,7 @@ Aquí subo las soluciones del proyecto Advent JS de [Midudev](https://midu.dev/)
 
 ## Año 2022
 [Aquí](2022/README.md) subo las soluciones planteadas para el año 2022
+
+
+## Año 2023
+[Aquí](2023/README.md) subo las soluciones planteadas para el año 2023
